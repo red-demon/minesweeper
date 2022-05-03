@@ -7,4 +7,4 @@ Created on Wed Apr 27 22:10:52 2022
 
 #%% define variables
 width=720
-height=400
+height=360
